@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VcbHFLlmq004697Q7GvKeEo1SuLLVRbwZSfAdYYkLUM=",
+  "Source": "AzureVaultTest",
+  "BasePath": "_content/AzureVaultTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
